@@ -21,7 +21,7 @@ A cheap 3D printed tracking, GoTo and autoguiding mount for DSLR astrophotograph
 
 ##
 
-**Use the [Printed Parts Chooser](https://docs.google.com/spreadsheets/d/1uDw7Jag2HRKztMPO7b06qFRg1eezGeb0IxJh84-QEao/edit?usp=sharing)**
+**Use the [Printed Parts Chooser](https://docs.google.com/spreadsheets/d/15ikITVKys8itwswZyvDWH7CQOWupffHXZKYJ-HWifzg/edit?usp=sharing)**
 
 
 # Like this Project?
